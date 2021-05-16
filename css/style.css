@@ -161,8 +161,19 @@
 .channel-name{
     width:85%;
     color: gray;
-    font-size: small;
+    font-size: medium;
     display:inline-block;
     overflow: hidden;
-
+}
+.views{
+    color: gray;
+    font-size: small;
+    display: inline-block;
+    overflow: hidden;
+}
+.days{
+    color: gray;
+    font-size: small;
+    display: inline-block;
+    overflow: hidden;
 }
