@@ -83,7 +83,7 @@
 .side-bar{
     width: 6%;
     padding-bottom: 19%;
-    background-color: rgb(32, 32, 32);
+    background-color: #212121;
     float: left;
 }
 /* Side bar code ends here */
@@ -95,12 +95,13 @@
     float: right;
     padding-bottom: 1%;
     padding-top: 1%;
-    border: 1px solid white;
+    border: 1px solid #373737;
 }
 .cat{
+    background-color: #373737;
     width: 5%;
     border: 1px solid white;
-    border-radius: 15%;
+    border-radius: 25px;
     margin-left: 2%;
     display: inline-block;
     text-align: center;
@@ -111,19 +112,19 @@
 }
 /* Catagory code ends */
 .videos-container{
-    background-color: rgb(32, 32, 32);
+    background-color: #181818;
     width: 94%;
     padding-bottom: 2.6%;
     float: right;
 }
 .videos{
-    background-color: rgb(32, 32, 32);
+    background-color: #181818;
     margin: auto;
     width: 96%;
 }
 .video{
     width: 24%;
-    background-color: rgb(32, 32, 32);
+    background-color: #181818;
     /* padding-bottom: vh; */
     display: inline-block;
     margin-top: 3%;
